@@ -890,6 +890,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-08-04 18:02:08 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/decorations/vampire/candle_stick": {
     "criteria": {
       "has_iron": "2025-08-04 17:12:49 +0000"
