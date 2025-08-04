@@ -390,3 +390,159 @@
 [04Aug2025 22:46:30.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> asme tp a la aldea principal
 [04Aug2025 22:46:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> recuperaste tus cosas?
 [04Aug2025 22:46:47.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> falta mi sombrilla
+[04Aug2025 22:47:07.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> asme tp a la aldeaw
+[04Aug2025 22:47:50.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> quieren ajo :v?
+[04Aug2025 22:47:59.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> ni tengo escudo xd
+[04Aug2025 22:48:11.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT has made the advancement [Sweet Dreams]
+[04Aug2025 22:48:59.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> tiene que ser casadora de vampiros
+[04Aug2025 22:49:14.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT burned to death
+[04Aug2025 22:49:16.184] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.13.jar%23131!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:132) ~[Vampirism-1.20.1-1.10.13.jar%23131!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:24) ~[Vampirism-1.20.1-1.10.13.jar%23131!/:1.20.1-1.10.13]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:422) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[04Aug2025 22:49:36.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> sabia que me querian convertir en vampiro >:v
+[04Aug2025 22:49:46.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> que
+[04Aug2025 22:49:50.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> xd
+[04Aug2025 22:50:00.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> vamos a la otra aldea y ya niall
+[04Aug2025 22:50:01.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> tenia el efecto xd
+[04Aug2025 22:50:15.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> ok
+[04Aug2025 22:50:40.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> ven
+[04Aug2025 22:50:48.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> agarra la mision para ser un lord
+[04Aug2025 22:50:59.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> de seguro te mordio alguien alex
+[04Aug2025 22:51:07.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> cual
+[04Aug2025 22:51:16.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> a
+[04Aug2025 22:51:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> esa la de ers digno
+[04Aug2025 22:51:22.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> sanguine o que
+[04Aug2025 22:51:27.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT has made the advancement [Stone Age]
+[04Aug2025 22:51:31.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> donde ?
+[04Aug2025 22:51:40.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> con ese aldeano
+[04Aug2025 22:51:46.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> se llama representador
+[04Aug2025 22:51:54.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> si
+[04Aug2025 22:52:05.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported jheremy2509 to -383.500000, 100.000000, 400.500000]
+[04Aug2025 22:52:06.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> pero me sale sanguineo o
+[04Aug2025 22:52:14.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> resisitencia al fuego
+[04Aug2025 22:52:19.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT has made the advancement [Acquire Hardware]
+[04Aug2025 22:52:40.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> a lomejor me falta nivel xd
+[04Aug2025 22:52:41.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> ponte sombrilla niall
+[04Aug2025 22:52:48.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> ahh si, debes ser maximo
+[04Aug2025 22:52:49.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> xd
+[04Aug2025 22:52:50.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> no tengooooooooooooooooooooooooooo
+[04Aug2025 22:52:53.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> tmr
+[04Aug2025 22:53:59.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Creative Mode]
+[04Aug2025 22:54:12.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> mandame a la aldea principal pe
+[04Aug2025 22:54:35.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported nialll044444 to jheremy2509]
+[04Aug2025 22:54:49.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> xdddd salia corriendo
+[04Aug2025 22:55:03.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Survival Mode]
+[04Aug2025 22:55:18.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/31333, l='ServerLevel[world]', x=-379.24, y=64.00, z=394.78] died, message: 'Angry Villager was slain by jheremy2509 using [onichan]'
+[04Aug2025 22:55:18.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT has made the advancement [Getting an Upgrade]
+[04Aug2025 22:55:27.243] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[04Aug2025 22:55:29.242] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[04Aug2025 22:55:33.241] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[04Aug2025 22:55:35.239] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[04Aug2025 22:55:36.456] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[04Aug2025 22:55:43.590] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/31332, l='ServerLevel[world]', x=-392.08, y=64.00, z=354.50] died, message: 'Angry Villager was slain by jheremy2509 using [onichan]'
+[04Aug2025 22:55:44.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/31331, l='ServerLevel[world]', x=-390.76, y=64.00, z=353.85] died, message: 'Angry Villager was slain by jheremy2509 using [onichan]'
+[04Aug2025 22:55:44.973] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[04Aug2025 22:55:49.242] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[04Aug2025 22:55:59.241] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[04Aug2025 22:56:11.240] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[04Aug2025 22:56:13.240] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[04Aug2025 22:56:21.278] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[04Aug2025 22:56:23.240] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[04Aug2025 22:56:25.240] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[04Aug2025 22:56:27.238] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[04Aug2025 22:56:31.242] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[04Aug2025 22:57:58.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> yaaaa la complete
+[04Aug2025 22:58:03.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> yo que
+[04Aug2025 22:58:03.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> vamo a la aldea principal
+[04Aug2025 22:58:26.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported jheremy2509 to 592.500000, 100.000000, -351.500000]
+[04Aug2025 22:58:31.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> tpame
+[04Aug2025 22:58:41.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> casi me muero ahogado xd
+[04Aug2025 22:59:04.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> a escapar de latam xd
+[04Aug2025 22:59:05.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> tomamos otra?
+[04Aug2025 22:59:10.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> para tu mision
+[04Aug2025 22:59:10.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> pasen seed
+[04Aug2025 22:59:11.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> tpame
+[04Aug2025 22:59:16.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> xd que tara haciendo alex
+[04Aug2025 22:59:24.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> -2696007471135130399
+[04Aug2025 22:59:31.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported nialll044444 to jheremy2509]
+[04Aug2025 22:59:33.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> nesesito subir de nivel para la misionxd
+[04Aug2025 23:00:22.252] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
+[04Aug2025 23:00:28.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> pt
+[04Aug2025 23:00:29.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/34567, l='ServerLevel[world]', x=592.56, y=109.02, z=-363.69] died, message: 'Angry Villager was slain by jheremy2509 using [onichan]'
+[04Aug2025 23:00:42.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> asme tp a la aldea principal pe
+[04Aug2025 23:00:54.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> pera, ayudame en esta
+[04Aug2025 23:01:50.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> feliz
+[04Aug2025 23:01:54.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> ti
+[04Aug2025 23:02:00.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> hasme tp
+[04Aug2025 23:02:01.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> aunque lo hice por gusto
+[04Aug2025 23:02:35.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported jheremy2509 to 112.500000, 150.000000, 592.500000]
+[04Aug2025 23:02:45.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported nialll044444 to jheremy2509]
+[04Aug2025 23:03:17.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> wd
+[04Aug2025 23:03:17.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> tienes puresa 4
+[04Aug2025 23:03:31.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> de sangre pura
+[04Aug2025 23:03:41.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Creative Mode]
+[04Aug2025 23:03:43.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> si creo
+[04Aug2025 23:03:44.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> xd
+[04Aug2025 23:04:47.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> xd si
+[04Aug2025 23:04:58.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Survival Mode]
+[04Aug2025 23:06:10.890] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[04Aug2025 23:06:12.550] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[04Aug2025 23:06:12.550] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[04Aug2025 23:06:12.551] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[04Aug2025 23:06:12.551] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[04Aug2025 23:08:43.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Baron] jheremy2509> xd?
+[04Aug2025 23:08:54.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Baron] jheremy2509> ya soy un baron vampirooo :D
+[04Aug2025 23:09:01.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> XDD
+[04Aug2025 23:09:12.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> oe
+[04Aug2025 23:09:17.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> como domo un caballo D:
+[04Aug2025 23:09:27.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> a
+[04Aug2025 23:09:28.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Baron] jheremy2509: Set own game mode to Creative Mode]
+[04Aug2025 23:10:19.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> me esta rechazando :'v
+[04Aug2025 23:10:31.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT has made the advancement [Best Friends Forever]
+[04Aug2025 23:10:36.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> porfin XDD
+[04Aug2025 23:11:20.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT has made the advancement [Into Fire]
+[04Aug2025 23:11:39.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> duerme xd
+[04Aug2025 23:11:51.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> media aldea esta abajo XD
+[04Aug2025 23:11:52.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Baron] jheremy2509: Set own game mode to Survival Mode]
+[04Aug2025 23:12:02.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Baron] jheremy2509> addw++
+[04Aug2025 23:12:09.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> zzz
+[04Aug2025 23:12:11.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> Baron
+[04Aug2025 23:12:18.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Baron] jheremy2509> xd
+[04Aug2025 23:12:34.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> salte y vuelve entrar itz
+[04Aug2025 23:13:36.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> voy a ir al end :D
+[04Aug2025 23:13:41.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> vuelvelo de noche jhosepppppp
+[04Aug2025 23:13:59.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Baron] jheremy2509> xd
+[04Aug2025 23:14:08.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Baron] jheremy2509: Set the time to 1000]
+[04Aug2025 23:14:16.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Baron] jheremy2509: Set the time to 13000]
+[04Aug2025 23:14:29.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Baron] jheremy2509> alex literal solo se esta pasando minecraft
+[04Aug2025 23:14:36.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> ;v
+[04Aug2025 23:15:30.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> mejor solo me hago mi base
+[04Aug2025 23:16:06.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> que tienes xd
+[04Aug2025 23:16:12.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Baron] jheremy2509> aburrimiento :v
+[04Aug2025 23:16:18.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> xd
+[04Aug2025 23:16:28.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After nialll044444 was slain by [Baron] jheremy2509 using [onichan], they gave up
+[04Aug2025 23:16:41.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> :v
+[04Aug2025 23:16:47.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> con su onichan
+[04Aug2025 23:16:49.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Baron] jheremy2509> y mi onichan >:D
+[04Aug2025 23:16:56.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Baron] jheremy2509> bueno ire a jugar roblox
+[04Aug2025 23:17:01.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Baron] jheremy2509> les dejo prendido el server
+[04Aug2025 23:17:05.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItzAlexMCYT> mugen xd
+[04Aug2025 23:17:11.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Baron] jheremy2509> si pero shh
+[04Aug2025 23:17:16.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> xd
