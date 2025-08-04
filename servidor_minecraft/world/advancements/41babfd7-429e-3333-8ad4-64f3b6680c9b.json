@@ -1124,6 +1124,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-04 18:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-08-04 17:45:04 +0000"
@@ -1386,9 +1392,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-08-04 18:14:48 +0000",
       "main": "2025-08-04 17:39:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:recipes/decorations/general/vampire_rack": {
     "criteria": {
@@ -1507,6 +1514,12 @@
   "vampirism:recipes/decorations/item_tent": {
     "criteria": {
       "has_wool": "2025-08-04 17:12:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-04 18:16:15 +0000"
     },
     "done": true
   },
