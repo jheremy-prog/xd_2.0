@@ -23,9 +23,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-08-04 17:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
     },
     "done": true
   },
@@ -77,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/hunter/item_med_chair": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 17:12:49 +0000"
@@ -89,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-08-04 17:10:35 +0000"
@@ -98,6 +122,18 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 17:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-04 17:29:47 +0000"
     },
     "done": true
   },
@@ -116,6 +152,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 17:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
     },
     "done": true
   },
@@ -140,6 +182,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-08-04 17:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
     },
     "done": true
   },
@@ -215,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-04 17:25:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-08-04 17:20:28 +0000"
@@ -227,9 +281,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-08-04 17:24:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire/blood_infused_enhanced_iron_ingot": {
     "criteria": {
       "has_iron": "2025-08-04 17:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
     },
     "done": true
   },
@@ -281,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-08-04 17:24:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 17:12:49 +0000"
@@ -296,6 +368,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-08-04 17:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-08-04 17:24:29 +0000"
     },
     "done": true
   },
@@ -317,9 +395,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-08-04 17:30:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-08-04 17:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-08-04 17:24:29 +0000"
     },
     "done": true
   },
@@ -329,9 +419,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-04 17:24:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/altar_tip": {
     "criteria": {
       "has_iron": "2025-08-04 17:12:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/transportation/cursed_spruce_boat": {
+    "criteria": {
+      "in_water": "2025-08-04 17:24:29 +0000"
     },
     "done": true
   },
@@ -353,9 +455,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 17:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-08-04 17:24:29 +0000"
     },
     "done": true
   },
@@ -407,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-08-04 17:16:29 +0000"
@@ -446,6 +566,12 @@
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-04 17:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
     },
     "done": true
   },
@@ -527,9 +653,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/transportation/dark_spruce_boat": {
+    "criteria": {
+      "in_water": "2025-08-04 17:24:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-08-04 17:18:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-08-04 17:27:03 +0000"
     },
     "done": true
   },
@@ -575,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-08-04 17:10:35 +0000"
@@ -584,6 +728,18 @@
   "vampirism:recipes/combat/alchemy_table": {
     "criteria": {
       "has_planks": "2025-08-04 17:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-08-04 17:24:29 +0000"
     },
     "done": true
   },
@@ -623,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2025-08-04 17:18:43 +0000"
@@ -638,6 +800,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 17:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
     },
     "done": true
   },
@@ -667,6 +835,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-08-04 17:28:47 +0000",
+      "minecraft:river": "2025-08-04 17:24:29 +0000",
       "minecraft:desert": "2025-08-04 17:08:59 +0000",
       "minecraft:savanna": "2025-08-04 17:10:16 +0000",
       "minecraft:plains": "2025-08-04 17:09:16 +0000"
@@ -685,6 +855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-04 17:30:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-08-04 17:12:36 +0000"
@@ -699,7 +875,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-08-04 17:17:14 +0000"
+      "cooked_porkchop": "2025-08-04 17:26:02 +0000",
+      "beef": "2025-08-04 17:22:55 +0000",
+      "potato": "2025-08-04 17:24:08 +0000",
+      "bread": "2025-08-04 17:17:14 +0000",
+      "carrot": "2025-08-04 17:27:35 +0000"
     },
     "done": false
   },
@@ -715,9 +895,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/vampire_rack": {
     "criteria": {
       "has_planks": "2025-08-04 17:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:29:47 +0000"
     },
     "done": true
   },
@@ -757,6 +949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-08-04 17:24:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_white": {
     "criteria": {
       "has_wool": "2025-08-04 17:12:36 +0000"
@@ -766,6 +964,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 17:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-04 17:24:29 +0000"
     },
     "done": true
   },

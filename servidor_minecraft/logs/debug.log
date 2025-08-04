@@ -2873,3 +2873,62 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Aug2025 17:25:29.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> salte mrd
 [04Aug2025 17:25:31.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> salte
 [04Aug2025 17:25:38.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> toy durmiendooooooooooooooooooo
+[04Aug2025 17:25:54.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> ya fuexd
+[04Aug2025 17:26:00.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> NO HAY NINGUNA CAMA EN ESTA ALDEA XD
+[04Aug2025 17:26:04.376] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 49.0s
+[04Aug2025 17:26:15.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 17:26:15.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 17:26:25.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> es aldea casador de vampiros xd
+[04Aug2025 17:26:41.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> nos convertimos y la domamos de nuevo pe
+[04Aug2025 17:26:42.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> XD
+[04Aug2025 17:26:56.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> xd ok
+[04Aug2025 17:27:16.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> mi agha
+[04Aug2025 17:27:27.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> acha:v
+[04Aug2025 17:27:54.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> mira esto
+[04Aug2025 17:28:21.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> ahora si
+[04Aug2025 17:28:24.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> dame mi acha
+[04Aug2025 17:28:31.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 was slain by Iron Golem
+[04Aug2025 17:28:32.203] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.13.jar%23131!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:132) ~[Vampirism-1.20.1-1.10.13.jar%23131!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:24) ~[Vampirism-1.20.1-1.10.13.jar%23131!/:1.20.1-1.10.13]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:422) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23135!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[04Aug2025 17:28:37.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported jheremy2509 to nialll044444]
+[04Aug2025 17:29:10.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> mira donta el golem
+[04Aug2025 17:29:16.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> JAJAJAJJA
+[04Aug2025 17:30:06.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Creative Mode]
+[04Aug2025 17:30:39.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set own game mode to Survival Mode]
+[04Aug2025 17:31:05.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [Isn't It Iron Pick]
+[04Aug2025 17:31:15.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 17:31:15.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 17:31:46.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> aslo de noche pa dormir xd
+[04Aug2025 17:31:55.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> hagamos ataudes
+[04Aug2025 17:32:01.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> ok
+[04Aug2025 17:32:03.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> creativo? yo creo que estamos bien
+[04Aug2025 17:32:05.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> xd
+[04Aug2025 17:32:19.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> yo tambien xd
+[04Aug2025 17:32:32.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> tengo 6 de lana
+[04Aug2025 17:32:46.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> aste 2 ataudes
+[04Aug2025 17:32:52.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> ok
+[04Aug2025 17:33:28.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> donde lo pongo xd
+[04Aug2025 17:33:41.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Teleported nialll044444 to jheremy2509]
+[04Aug2025 17:34:31.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jheremy2509> xd
+[04Aug2025 17:34:38.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jheremy2509: Set the time to 13000]
+[04Aug2025 17:35:09.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> durmamos xd
+[04Aug2025 17:35:15.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jheremy2509 has made the advancement [Sweet Dreams]
+[04Aug2025 17:35:50.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nialll044444> no deveria ver aparecido como vampiro xd
