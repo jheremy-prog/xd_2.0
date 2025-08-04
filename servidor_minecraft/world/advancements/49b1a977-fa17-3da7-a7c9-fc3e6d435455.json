@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-08-04 17:09:28 +0000"
@@ -124,6 +130,12 @@
       "main": "2025-08-04 17:42:36 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
   },
   "minecraft:story/iron_tools": {
     "criteria": {
@@ -155,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_shovel": "2025-08-04 17:10:10 +0000"
@@ -176,6 +194,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-04 17:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
     },
     "done": true
   },
@@ -236,6 +260,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-04 17:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
     },
     "done": true
   },
@@ -336,6 +366,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-04 17:59:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-08-04 17:21:58 +0000"
@@ -354,11 +390,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/extra_storage": {
     "criteria": {
       "main": "2025-08-04 17:42:36 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
@@ -443,6 +497,12 @@
       "minecraft:zombie": "2025-08-04 17:25:17 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
@@ -618,6 +678,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-04 17:27:29 +0000"
@@ -636,15 +708,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-04 17:36:49 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-08-04 17:53:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-08-04 17:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-08-04 17:59:42 +0000"
     },
     "done": true
   },
@@ -744,11 +834,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/yuck": {
     "criteria": {
       "main": "2025-08-04 17:42:36 +0000"
     },
     "done": false
+  },
+  "vampirism:recipes/misc/general/injection_0": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
@@ -780,6 +882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/sniped": {
     "criteria": {
       "main": "2025-08-04 17:42:36 +0000"
@@ -791,6 +899,12 @@
       "has_iron_ingot": "2025-08-04 17:09:28 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-08-04 17:59:50 +0000"
+    },
+    "done": false
   },
   "vampirism:recipes/decorations/vampire/candle_stick": {
     "criteria": {
@@ -807,6 +921,12 @@
   "vampirism:recipes/decorations/hunter/hunter_table": {
     "criteria": {
       "has_fang": "2025-08-04 17:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
     },
     "done": true
   },
@@ -966,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
     "criteria": {
       "gold": "2025-08-04 17:10:10 +0000"
@@ -1026,6 +1152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-08-04 17:16:15 +0000"
@@ -1041,6 +1173,12 @@
   "vampirism:recipes/combat/alchemy_table": {
     "criteria": {
       "has_planks": "2025-08-04 17:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:53:07 +0000"
     },
     "done": true
   },
@@ -1339,6 +1477,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-08-04 17:27:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-08-04 17:53:21 +0000"
     },
     "done": true
   },

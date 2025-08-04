@@ -422,9 +422,10 @@
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
+      "blood_container": "2025-08-04 17:57:58 +0000",
       "main": "2025-08-04 17:39:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
