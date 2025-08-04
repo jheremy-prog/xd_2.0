@@ -41,6 +41,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2025-08-04 17:42:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-04 17:09:28 +0000"
@@ -101,6 +119,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2025-08-04 17:42:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-08-04 17:31:05 +0000"
@@ -116,6 +140,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-04 17:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
     },
     "done": true
   },
@@ -143,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-08-04 17:16:15 +0000"
@@ -152,6 +188,18 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 17:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-04 17:50:52 +0000"
     },
     "done": true
   },
@@ -182,6 +230,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 17:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
     },
     "done": true
   },
@@ -245,6 +299,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-08-04 17:42:36 +0000",
+      "flower": "2025-08-04 17:43:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-04 17:36:49 +0000"
@@ -286,6 +353,12 @@
       "iron": "2025-08-04 17:09:28 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2025-08-04 17:42:36 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
@@ -359,6 +432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2025-08-04 17:25:17 +0000"
@@ -404,6 +483,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-08-04 17:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-04 17:49:36 +0000"
     },
     "done": true
   },
@@ -587,6 +672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 17:09:28 +0000"
@@ -653,6 +744,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2025-08-04 17:42:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-08-04 17:31:50 +0000"
@@ -662,6 +759,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-08-04 17:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
     },
     "done": true
   },
@@ -676,6 +779,12 @@
       "blood_container": "2025-08-04 17:12:23 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2025-08-04 17:42:36 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
@@ -728,6 +837,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-08-04 17:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
     },
     "done": true
   },
@@ -803,6 +918,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2025-08-04 17:42:36 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-08-04 17:08:43 +0000"
@@ -839,6 +960,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-08-04 17:49:36 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
     "criteria": {
       "gold": "2025-08-04 17:10:10 +0000"
@@ -869,6 +996,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-08-04 17:42:36 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/candelabra_candles": {
     "criteria": {
       "has_iron": "2025-08-04 17:09:28 +0000"
@@ -878,6 +1011,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-08-04 17:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
     },
     "done": true
   },
@@ -908,6 +1047,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-08-04 17:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
     },
     "done": true
   },
@@ -959,6 +1104,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-08-04 17:49:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough": {
     "criteria": {
       "has_wheat": "2025-08-04 17:09:28 +0000"
@@ -968,6 +1125,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 17:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
     },
     "done": true
   },
@@ -1023,6 +1186,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2025-08-04 17:42:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-08-04 17:24:51 +0000"
@@ -1065,6 +1234,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2025-08-04 17:42:36 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/decorations/general/vampire_rack": {
     "criteria": {
       "has_planks": "2025-08-04 17:08:46 +0000"
@@ -1080,6 +1261,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-08-04 17:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-08-04 17:50:52 +0000"
     },
     "done": true
   },

@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-08-04 17:48:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-08-04 17:33:00 +0000"
@@ -77,6 +83,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-04 17:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-08-04 17:12:51 +0000"
@@ -106,6 +124,12 @@
       "main": "2025-08-04 17:39:52 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
+    },
+    "done": true
   },
   "minecraft:story/iron_tools": {
     "criteria": {
@@ -149,6 +173,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-04 17:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-08-04 17:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-04 17:48:37 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_orange_from_white": {
     "criteria": {
       "has_coffin": "2025-08-04 17:33:11 +0000"
@@ -170,6 +218,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-04 17:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
     },
     "done": true
   },
@@ -209,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-04 17:49:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-08-04 17:33:00 +0000"
@@ -221,9 +281,27 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-04 17:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-08-04 17:48:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 17:12:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
     },
     "done": true
   },
@@ -236,6 +314,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-04 17:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
     },
     "done": true
   },
@@ -271,9 +355,10 @@
   },
   "vampirism:vampire/first_blood": {
     "criteria": {
-      "main": "2025-08-04 17:39:52 +0000"
+      "main": "2025-08-04 17:39:52 +0000",
+      "flower": "2025-08-04 17:42:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
@@ -311,11 +396,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-04 17:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-04 17:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/extra_storage": {
     "criteria": {
       "main": "2025-08-04 17:39:52 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
@@ -377,6 +492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-04 17:48:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-04 17:16:29 +0000"
@@ -403,9 +524,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-08-04 17:18:42 +0000"
+      "minecraft:skeleton": "2025-08-04 17:18:42 +0000",
+      "minecraft:spider": "2025-08-04 17:48:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
@@ -431,9 +559,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-04 17:44:31 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_lime_from_white": {
     "criteria": {
       "has_coffin": "2025-08-04 17:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-04 17:49:38 +0000"
     },
     "done": true
   },
@@ -446,6 +586,12 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 17:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-08-04 17:48:37 +0000"
     },
     "done": true
   },
@@ -476,6 +622,12 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-04 17:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-04 17:49:38 +0000"
     },
     "done": true
   },
@@ -539,6 +691,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/tombstone2": {
+    "criteria": {
+      "has_coble": "2025-08-04 17:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-04 17:24:29 +0000"
@@ -557,9 +727,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-04 17:33:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-08-04 17:50:42 +0000"
     },
     "done": true
   },
@@ -641,11 +823,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/yuck": {
     "criteria": {
       "main": "2025-08-04 17:39:52 +0000"
     },
     "done": false
+  },
+  "vampirism:recipes/misc/general/injection_0": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
+    },
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
@@ -677,6 +871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/sniped": {
     "criteria": {
       "main": "2025-08-04 17:39:52 +0000"
@@ -701,6 +901,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-04 17:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-08-04 17:33:00 +0000"
@@ -722,6 +934,12 @@
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-04 17:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-04 17:45:04 +0000"
     },
     "done": true
   },
@@ -821,6 +1039,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/chandelier": {
+    "criteria": {
+      "has_string": "2025-08-04 17:49:38 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/transportation/dark_spruce_boat": {
     "criteria": {
       "in_water": "2025-08-04 17:24:29 +0000"
@@ -836,6 +1060,12 @@
   "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
     "criteria": {
       "has_wheat_seeds": "2025-08-04 17:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
     },
     "done": true
   },
@@ -887,9 +1117,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-04 17:45:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-04 17:29:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-04 17:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
     },
     "done": true
   },
@@ -899,9 +1147,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-08-04 17:48:37 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/alchemy_table": {
     "criteria": {
       "has_planks": "2025-08-04 17:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 17:50:27 +0000"
     },
     "done": true
   },
@@ -938,6 +1198,12 @@
   "vampirism:recipes/combat/hunter/crucifix": {
     "criteria": {
       "stick": "2025-08-04 17:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-04 17:49:38 +0000"
     },
     "done": true
   },
@@ -1041,11 +1307,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-04 17:48:37 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/resurrect": {
     "criteria": {
       "main": "2025-08-04 17:39:52 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-04 17:48:37 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
@@ -1074,6 +1352,12 @@
       "carrot": "2025-08-04 17:27:35 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-08-04 17:48:37 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
@@ -1105,15 +1389,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-04 17:48:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-04 17:29:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-04 17:49:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-08-04 17:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-08-04 17:48:37 +0000"
     },
     "done": true
   },
@@ -1180,6 +1482,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-08-04 17:24:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-08-04 17:50:39 +0000"
     },
     "done": true
   },
