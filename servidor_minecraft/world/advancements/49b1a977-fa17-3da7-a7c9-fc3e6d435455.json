@@ -11,6 +11,7 @@
       "minecraft:sparse_jungle": "2025-08-04 21:28:25 +0000",
       "minecraft:river": "2025-08-04 17:24:26 +0000",
       "minecraft:lukewarm_ocean": "2025-08-04 21:27:50 +0000",
+      "minecraft:lush_caves": "2025-08-04 21:41:17 +0000",
       "minecraft:desert": "2025-08-04 17:07:55 +0000",
       "minecraft:savanna": "2025-08-04 17:11:12 +0000",
       "minecraft:plains": "2025-08-04 17:08:23 +0000"
@@ -1231,9 +1232,10 @@
   },
   "vampirism:vampire/resurrect": {
     "criteria": {
+      "resurrected": "2025-08-04 21:33:51 +0000",
       "main": "2025-08-04 17:42:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/bat": {
     "criteria": {
@@ -1740,6 +1742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-08-04 21:31:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-08-04 21:25:11 +0000"
@@ -1914,6 +1922,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2025-08-04 21:38:44 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/tombstone2": {
     "criteria": {
       "has_coble": "2025-08-04 21:22:52 +0000"
@@ -1992,6 +2006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-04 21:31:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-08-04 21:22:52 +0000"
@@ -2058,6 +2078,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/leather_from_obi_belt": {
+    "criteria": {
+      "has_obi_belt": "2025-08-04 21:38:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-08-04 21:22:52 +0000"
@@ -2085,6 +2111,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 21:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-04 21:31:53 +0000"
     },
     "done": true
   },
