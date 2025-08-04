@@ -912,6 +912,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-04 18:09:37 +0000",
+      "minecraft:enderman": "2025-08-04 18:39:57 +0000",
       "minecraft:zombie": "2025-08-04 17:25:17 +0000"
     },
     "done": false
@@ -1586,9 +1587,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+  "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
-      "has_pure_blood": "2025-08-04 18:28:51 +0000"
+      "nourishment": "2025-08-04 18:22:43 +0000"
     },
     "done": true
   },
@@ -1598,9 +1599,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-04 18:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-04 18:26:31 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2025-08-04 18:28:51 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
     "criteria": {
       "has_pure_blood": "2025-08-04 18:28:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2025-08-04 18:28:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2025-08-04 18:28:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2025-08-04 18:28:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2025-08-04 18:28:56 +0000"
     },
     "done": true
   },
@@ -1622,45 +1665,21 @@
     },
     "done": true
   },
-  "vampirism:recipes/misc/hunter/pure_blood0": {
+  "vampirism:vampire/max_level": {
     "criteria": {
-      "has_pure_blood": "2025-08-04 18:28:56 +0000"
+      "level": "2025-08-04 18:37:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
-      "has_iron_block": "2025-08-04 18:26:31 +0000"
+      "has_any_ingredient": "2025-08-04 21:07:38 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/eat_nourishing_food": {
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
-      "nourishment": "2025-08-04 18:22:43 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
-    "criteria": {
-      "has_pure_blood": "2025-08-04 18:28:51 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
-    "criteria": {
-      "has_pure_blood": "2025-08-04 18:28:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-08-04 18:26:31 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
-    "criteria": {
-      "has_pure_blood": "2025-08-04 18:28:51 +0000"
+      "has_rotten_flesh": "2025-08-04 21:07:38 +0000"
     },
     "done": true
   },
